@@ -1,0 +1,8 @@
+<project>
+<artifactId>hello-world</artifactId>  
+<groupId>org.skr</groupId> 
+<modelVersion>4.0.0</modelVersion>  
+<version>1.0-snapshot </version>
+<packaging>jar</packaging>
+</project>
+
